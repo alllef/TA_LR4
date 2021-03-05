@@ -1,0 +1,57 @@
+Dakka
+Chitagong
+Sonargaon
+Daudhang
+Komilla
+Khulna
+Jesor
+Noapara
+Radjshahi
+Shibganj
+Chandra
+Tangail
+Bogra
+Chandaicona
+Aralhazar
+Dakka 0	211	21 37 78 132 135 127 197 180 40	77 164 131 26
+Chitagong 211 0	192	175	146	239	284	261	400	391	250	288	375	343	202
+Sonargaon 21 192 0 17 57 140 151 140 219 199 57	96 183 151 17
+Daudhang 37 175	17 0 42	143	159	146	235	216	74 113 200 168 29
+Komilla 78 146 57 42 0 176 199 183 276 249 110 150 234 204 60
+Khulna 132 239 140 143 176 0 53	29 200 245 153 163 227 194 155
+Jesor 136 284 151 159 199 53 0 25 148 204 143 139 187 157 162
+Noapara 128 261 140 146 184 29 25 0 171 220 142 145 202 170 153
+Radjshahi 198 401 219 235 276 200 148 171 0 100 171 135 94 93 218
+ShibGanj 181 392 199 216 250 245 204 220 101 0 141 103 17 52 190
+Chandra 40 250 58 75 110 153 143 142 171 141 0 39 125 94 50
+Tangail 77 288 96 113 150 163 139 145 135 103 39 0 87 54 90
+Bogra 164 376 183 200 235 227 187 203 94 17 125 87 0 35 175
+Chandaicona 131 343 151 168 204 194 157 170 94 52 94 54 35 0 144
+Aralhazar 26 202 17 29 60 156 162 153 219 190 50 90 175 144	0
+Sonargaon Dakka 25
+Daudhang Sonargaon 17
+Komilla Chitagong 157
+Komilla Daudhang 43
+Jesor Dakka 216
+Noapara Khulna 36
+Noapara Jesor 30
+Radjshahi Jesor 201
+Shibganj Radjshahi 201
+Chandra Dakka 40
+Chandra Sonargaon 74
+Chandra Jesor 196
+Chandra Radjshahi 171
+Tangail Jesor 187
+Tangail Radjshahi 184
+Bogra Jesor 235
+Bogra Radjshahi 94
+Bogra Shibganj 18
+Chandaicona Jesor 216
+Chandaicona Radjshahi 150
+Chandaicona Chandra 112
+Chandaicona Tangail 70
+Chandaicona Bogra 38
+Aralhazar Dakka 34
+Aralhazar Sonargaon 24
+Aralhazar Chandra 60
+Komilla Sonargaon 100
